@@ -9,7 +9,7 @@ function App() {
   const [locations, setLocations] = useState("Dublin");
   const [cityName, setCityName] = useState("Dublin");
 
-  const apiKey = "1423257735d8272fef7a11431eb3d1c5";
+  const apiKey = "API_KEY";
 
   async function getCoordinates() {
     try {
