@@ -1,6 +1,6 @@
 ## Weather app
 
-Search a location to get weather data.
+Search a location to get weather data.<br>
 Built using React (hooks) and OpenWeatherMap <a href="https://openweathermap.org/api">API</a>.
 
 ## Known issues and Todos
